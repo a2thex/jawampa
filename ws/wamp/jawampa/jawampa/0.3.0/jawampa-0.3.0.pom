@@ -66,7 +66,7 @@
                         <include>**/*</include>
                     </includes>
                     <repositoryName>jawampa</repositoryName> <!-- github repo name -->
-                    <repositoryOwner>Matthias247</repositoryOwner> <!-- github username -->
+                    <repositoryOwner>ichrome</repositoryOwner> <!-- github username -->
                 </configuration>
                 <executions>
                     <execution>
@@ -105,9 +105,9 @@
     </dependencies>
   
     <scm>
-        <url>https://github.com/Matthias247/jawampa</url>
-        <connection>scm:git:https://github.com/Matthias247/jawampa.git</connection>
-        <developerConnection>scm:git:https://github.com/Matthias247/jawampa.git</developerConnection>
+        <url>https://github.com/ichrome/jawampa</url>
+        <connection>scm:git:https://github.com/ichrome/jawampa.git</connection>
+        <developerConnection>scm:git:https://github.com/ichrome/jawampa.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
